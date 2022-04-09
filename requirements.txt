@@ -8,3 +8,6 @@ torch
 torchvision
 tqdm
 wget
+scikit-image
+tifffile
+kornia
